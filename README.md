@@ -1,7 +1,7 @@
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="./github-banner.png" width="100%" alt="Montasir Islam - Full Stack Developer" />
+  <img src="https://raw.githubusercontent.com/Montasir180/Montasir180/b498a199e2b61ffab78bdfbe0ae59feacbdd382d/3fe54aff-bf4f-4db4-888d-03cb4a51e978.png" width="100%" alt="Montasir Islam - Full Stack Developer" />
 </p>
 
 <br />
