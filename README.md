@@ -68,35 +68,6 @@
 
 **Git • GitHub • VS Code • Vercel • Netlify**
 
----
-
-## 📚 My Web Development Journey
-
-```text
-HTML
-  ↓
-CSS
-  ↓
-JavaScript
-  ↓
-React
-  ↓
-Tailwind CSS + DaisyUI
-  ↓
-Next.js
-  ↓
-API & Data Fetching
-  ↓
-Git & GitHub
-  ↓
-Backend Development
-  ↓
-Node.js + Express.js
-  ↓
-MongoDB
-  ↓
-Full Stack Development
-```
 
 ### 🎯 Current Focus
 
@@ -182,24 +153,6 @@ A modern course-based website built to practice Next.js routing, dynamic pages, 
 
 ---
 
-## 🧠 Currently Learning
-
-```text
-Next.js
-   ↓
-Advanced React
-   ↓
-Backend Development
-   ↓
-REST APIs
-   ↓
-Authentication
-   ↓
-MongoDB
-   ↓
-Full Stack Applications
-```
-
 My goal is to become confident in building complete applications from **frontend → backend → database → deployment**.
 
 ---
@@ -209,15 +162,6 @@ My goal is to become confident in building complete applications from **frontend
 > **Learn → Build → Break → Debug → Improve → Repeat**
 
 I believe the best way to learn development is not just watching tutorials, but actually **building projects, making mistakes, debugging them and improving the code.**
-
----
-
-## 🐙 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Montasir180&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montasir180&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
 
 ---
 
