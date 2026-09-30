@@ -165,11 +165,17 @@ I believe the best way to learn development is not just watching tutorials, but 
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Montasir180&theme=github-compact&hide_border=true&area=false"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Montasir180&theme=github-compact&hide_border=true"
     width="95%"
-    alt="Montasir180 GitHub Contribution Graph"
+    alt="Montasir180 GitHub Activity Graph"
   />
 </p>
+
+Feb  Mar  Apr  May  Jun  Jul
+
+🟩⬛🟩🟩⬛...
+⬛🟩🟩⬛🟩...
+🟩🟩⬛🟩🟩...
 ---
 
 ## 🎯 2026 Goals
