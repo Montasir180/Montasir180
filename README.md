@@ -154,28 +154,22 @@ My goal is to become confident in building complete applications from **frontend
 I believe the best way to learn development is not just watching tutorials, but actually **building projects, making mistakes, debugging them and improving the code.**
 
 ---
+## 📊 Contribution Graph
 
+<p align="center">
+  <img
+    src="./github-contribution.svg"
+    width="95%"
+    alt="Montasir180 GitHub Contribution Graph"
+  />
+</p>
+
+---
 ## 🔥 GitHub Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Montasir180&theme=tokyonight&hide_border=true" />
 </p>
 
----
-## 📊 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Montasir180&theme=github-compact&hide_border=true"
-    width="95%"
-    alt="Montasir180 GitHub Activity Graph"
-  />
-</p>
-
-Feb  Mar  Apr  May  Jun  Jul
-
-🟩⬛🟩🟩⬛...
-⬛🟩🟩⬛🟩...
-🟩🟩⬛🟩🟩...
 ---
 
 ## 🎯 2026 Goals
