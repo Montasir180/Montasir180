@@ -156,7 +156,9 @@ I believe the best way to learn development is not just watching tutorials, but 
 ---
 
 ## 🔥 GitHub Streak
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Montasir180&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
