@@ -143,16 +143,6 @@ A workout and fitness-focused application created to practice React state manage
 
 ---
 
-### 🎓 Course Platform
-
-A modern course-based website built to practice Next.js routing, dynamic pages, data fetching and responsive UI.
-
-**Technologies:**
-
-`Next.js` `React` `Tailwind CSS` `DaisyUI`
-
----
-
 My goal is to become confident in building complete applications from **frontend → backend → database → deployment**.
 
 ---
