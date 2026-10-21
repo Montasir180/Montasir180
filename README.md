@@ -5,17 +5,24 @@
 </p>
 
 <br />
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 
 ---
 # 💫 About Me:
-🔭 I'm currently working on building modern web applications using Next.js and React.js.<br><br>👯 I'm looking to collaborate on open-source projects and frontend development.<br><br>🤝 I'm looking for help with advanced Next.js, backend development, and system design.<br><br>🌱 I'm currently learning full-stack development, Next.js, Node.js, Express.js, and MongoDB.<br><br>💬 Ask me about React.js, Next.js, JavaScript, Tailwind CSS, and responsive web design.<br><br>⚡ Fun fact: I'm a developer, writer, and lifelong learner who loves turning creative ideas into reality.
+I’m an aspiring Full-Stack Web Developer from Bangladesh, passionate about building responsive, user-friendly, and modern web applications using React.js and Next.js.
+
+I enjoy turning ideas into clean, functional interfaces and building reliable backend systems. My technical interests include JavaScript, React.js, Next.js, Tailwind CSS, Node.js, Express.js, and MongoDB. I also work with REST APIs, Git, and GitHub to build and manage practical web development projects.
+
+I’m continuously improving my skills through hands-on projects, exploring modern development practices, and strengthening my problem-solving abilities. My goal is to create scalable, accessible, and maintainable web applications with great user experiences.
+
+I’m always open to connecting with developers, collaborating on interesting projects, contributing to open-source initiatives, and exploring junior frontend or full-stack developer opportunities.
 
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:montasir.dev@gmail.com) 
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Montasir180&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Montasir180&theme=dark&hide_border=false)<br/>
